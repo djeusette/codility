@@ -34,3 +34,4 @@ end
 solution([1,0,0,1,1])
 solution([1,1])
 solution([1,0,1])
+solution([])
